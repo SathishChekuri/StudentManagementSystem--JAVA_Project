@@ -17,7 +17,7 @@ Menu-driven and user-friendly
 
 Handles multiple student records dynamically
 
-##Technologies Used
+## Technologies Used
 
 Java (Core Java)
 
@@ -55,7 +55,7 @@ Menu-driven program
 
 Input handling using Scanner
 
-📊 Sample Output
+## Sample Output
 --------------------------------------------------------
 ID     Name            Age    Course
 --------------------------------------------------------
