@@ -60,6 +60,7 @@ Input handling using Scanner
 ID     Name            Age    Course
 --------------------------------------------------------
 573    Sathish         19     CSE
+
 574    Rajesh          20     CSD
 --------------------------------------------------------
 
@@ -91,4 +92,4 @@ Sathish Chekuri
 
 CSE Undergraduate | Java Learner
 
-## Aspiring Software Developer
+Aspiring Software Developer
